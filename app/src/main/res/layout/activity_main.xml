@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:padding="15dp"
-    android:background="@drawable/bg1">
+    android:background="@drawable/bg2">
 
     <EditText
         android:id="@+id/cost_of_service"
@@ -68,7 +68,7 @@
             android:text="@string/ok_15"
             android:textColor="@color/pastel"
             android:textSize="15sp"
-            android:textStyle="bold" />
+            android:textStyle="italic" />
 
     </RadioGroup>
 
@@ -90,7 +90,7 @@
 
     <Button
         android:id="@+id/btn_calculate"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:textStyle="bold"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"

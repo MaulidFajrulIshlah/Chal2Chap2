@@ -8,7 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="pink">#FFACAC</color>
-    <color name="pink2">#FFBFA9</color>
-    <color name="pastel">#FBFFB1</color>
+    <color name="pink">#002B5B</color>
+    <color name="pink2">#2B4865</color>
+    <color name="pastel">#F35588</color>
 </resources>
